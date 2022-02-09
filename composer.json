@@ -1,5 +1,5 @@
 {
-	"name": "kitloong/laravel-migrations-generator",
+	"name": "dilneiss/laravel-migrations-generator",
 	"description": "Generates Laravel Migrations from an existing database",
 	"keywords": ["laravel", "lumen", "migration", "generator", "migrations", "artisan"],
 	"license": "MIT",
@@ -10,9 +10,7 @@
 		}
 	],
 	"require": {
-		"php": ">=7.1.3",
-		"illuminate/support": "^5.6|^6.0|^7.0|^8.0",
-		"doctrine/dbal": "~2.4|^3.0"
+		"php": ">=7.1.3"
 	},
     "require-dev": {
         "orchestra/testbench": "^3.6|^4.0|^5.0|^6.0",
